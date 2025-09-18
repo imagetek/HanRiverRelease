@@ -1,0 +1,192 @@
+09:10:58 :  [
+  {
+    "shipId": 123060892,
+    "direction": "잠실",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 33,
+    "seats": "정보없음",
+    "remainSeat": 146,
+    "nextStop": "한강버스.압구정선착장",
+    "previousStop": "한강버스.여의도선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 0,
+    "sectionMoveRatio": 0,
+    "stopYn": "Arrival",
+    "nodeSequence": 3
+  }
+]
+ 
+09:11:32 :  [
+  {
+    "shipId": 123060892,
+    "direction": "잠실",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 33,
+    "seats": "정보없음",
+    "remainSeat": 146,
+    "nextStop": "한강버스.압구정선착장",
+    "previousStop": "한강버스.여의도선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 0,
+    "sectionMoveRatio": 0,
+    "stopYn": "Arrival",
+    "nodeSequence": 3
+  }
+]
+ 
+09:12:07 :  [
+  {
+    "shipId": 123060892,
+    "direction": "잠실",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 33,
+    "seats": "정보없음",
+    "remainSeat": 146,
+    "nextStop": "한강버스.압구정선착장",
+    "previousStop": "한강버스.여의도선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 0,
+    "sectionMoveRatio": 0,
+    "stopYn": "Arrival",
+    "nodeSequence": 3
+  }
+]
+ 
+09:12:42 :  [
+  {
+    "shipId": 123060892,
+    "direction": "잠실",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 33,
+    "seats": "정보없음",
+    "remainSeat": 146,
+    "nextStop": "한강버스.압구정선착장",
+    "previousStop": "한강버스.여의도선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 0,
+    "sectionMoveRatio": 0,
+    "stopYn": "Arrival",
+    "nodeSequence": 3
+  }
+]
+ 
+09:13:17 :  [
+  {
+    "shipId": 123060892,
+    "direction": "잠실",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 33,
+    "seats": "정보없음",
+    "remainSeat": 146,
+    "nextStop": "한강버스.압구정선착장",
+    "previousStop": "한강버스.여의도선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 0,
+    "sectionMoveRatio": 0,
+    "stopYn": "Arrival",
+    "nodeSequence": 3
+  }
+]
+ 
+09:13:52 :  [
+  {
+    "shipId": 123060892,
+    "direction": "잠실",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 33,
+    "seats": "정보없음",
+    "remainSeat": 146,
+    "nextStop": "한강버스.압구정선착장",
+    "previousStop": "한강버스.여의도선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 0,
+    "sectionMoveRatio": 0,
+    "stopYn": "Arrival",
+    "nodeSequence": 3
+  }
+]
+ 
+09:14:27 :  [
+  {
+    "shipId": 123060892,
+    "direction": "잠실",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 33,
+    "seats": "정보없음",
+    "remainSeat": 146,
+    "nextStop": "한강버스.압구정선착장",
+    "previousStop": "한강버스.여의도선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 0,
+    "sectionMoveRatio": 0,
+    "stopYn": "Arrival",
+    "nodeSequence": 3
+  }
+]
+ 
+09:15:02 :  [
+  {
+    "shipId": 123060892,
+    "direction": "잠실",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 33,
+    "seats": "정보없음",
+    "remainSeat": 146,
+    "nextStop": "한강버스.압구정선착장",
+    "previousStop": "한강버스.여의도선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 0,
+    "sectionMoveRatio": 0,
+    "stopYn": "Arrival",
+    "nodeSequence": 3
+  }
+]
+ 

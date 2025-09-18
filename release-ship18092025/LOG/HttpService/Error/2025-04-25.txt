@@ -1,0 +1,6 @@
+4:58 AM: An error occurred while sending the request.
+    at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at HanRiverSIS.Services.HttpService.ExecuteGetRequestFor[T](String endpoint) in C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\HanRiverSIS\Services\HttpService.cs:line 502

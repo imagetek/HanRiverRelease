@@ -1,0 +1,45 @@
+13:53:39 :  [
+  {
+    "shipId": 123060885,
+    "direction": "마곡",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 9,
+    "seats": "여유",
+    "remainSeat": 190,
+    "nextStop": "한강버스.옥수선착장",
+    "previousStop": "한강버스.뚝섬선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 0,
+    "sectionMoveRatio": 0.334,
+    "stopYn": "Departure",
+    "nodeSequence": 2
+  },
+  {
+    "shipId": 123060894,
+    "direction": "잠실",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 8,
+    "seats": "여유",
+    "remainSeat": 146,
+    "nextStop": "한강버스.망원선착장",
+    "previousStop": "한강버스.마곡선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 0,
+    "sectionMoveRatio": 0.302,
+    "stopYn": "Departure",
+    "nodeSequence": 1
+  }
+]
+ 

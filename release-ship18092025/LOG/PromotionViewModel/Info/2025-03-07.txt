@@ -1,0 +1,76 @@
+10:20 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+10:20 AM: MediaElementContent_Loaded
+ OK
+10:22 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/seoul_720p.mp4
+10:22 AM: MediaElementContent_Loaded
+ OK
+10:25 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+10:25 AM: MediaElementContent_Loaded
+ OK
+10:27 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/seoul_720p.mp4
+10:27 AM: MediaElementContent_Loaded
+ OK
+10:30 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+10:30 AM: MediaElementContent_Loaded
+ OK
+10:32 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/seoul_720p.mp4
+10:32 AM: MediaElementContent_Loaded
+ OK
+10:36 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+10:36 AM: MediaElementContent_Loaded
+ OK
+10:38 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/seoul_720p.mp4
+10:38 AM: MediaElementContent_Loaded
+ OK
+10:41 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+10:41 AM: MediaElementContent_Loaded
+ OK
+10:43 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/seoul_720p.mp4
+10:43 AM: MediaElementContent_Loaded
+ OK
+10:46 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+10:46 AM: MediaElementContent_Loaded
+ OK
+10:48 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/seoul_720p.mp4
+10:48 AM: MediaElementContent_Loaded
+ OK
+10:51 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+10:51 AM: MediaElementContent_Loaded
+ OK
+10:53 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/seoul_720p.mp4
+10:53 AM: MediaElementContent_Loaded
+ OK
+10:56 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+10:56 AM: MediaElementContent_Loaded
+ OK
+10:58 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/seoul_720p.mp4
+10:58 AM: MediaElementContent_Loaded
+ OK
+11:02 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+11:02 AM: MediaElementContent_Loaded
+ OK
+11:04 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/seoul_720p.mp4
+11:04 AM: MediaElementContent_Loaded
+ OK
+11:07 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+11:07 AM: MediaElementContent_Loaded
+ OK

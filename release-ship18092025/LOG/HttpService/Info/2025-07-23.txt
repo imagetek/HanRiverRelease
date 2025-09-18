@@ -1,0 +1,2 @@
+9:22 AM: status sent result status code: ok , response message: bit 상태 정보가 성공적으로 업로드되었습니다.
+ 

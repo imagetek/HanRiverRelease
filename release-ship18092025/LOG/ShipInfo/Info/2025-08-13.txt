@@ -1,0 +1,21 @@
+15:58:42 :  {
+  "shipId": 123060884,
+  "direction": "잠실",
+  "shipType": "Express",
+  "arrivalTimeInMinutes": 4,
+  "seats": "정보없음",
+  "nextStop": "한강버스.잠실선착장",
+  "previousStop": "한강버스.여의도선착장",
+  "Latitude": 0,
+  "Longitude": 0,
+  "NextStopId": 0,
+  "PreviousStopId": 0,
+  "shipStatus": "Moving",
+  "currentStop": null,
+  "CurrentStopId": 0,
+  "peopleCountOnShip": 0,
+  "sectionMoveRatio": 0.706,
+  "stopYn": "Departure",
+  "nodeSequence": 2
+}
+ 

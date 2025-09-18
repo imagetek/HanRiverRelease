@@ -1,0 +1,86 @@
+16:43:06 :  [
+  {
+    "shipId": 123060884,
+    "direction": "잠실",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 24,
+    "seats": "여유",
+    "nextStop": "한강버스.압구정선착장",
+    "previousStop": "한강버스.여의도선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 0,
+    "sectionMoveRatio": 0,
+    "stopYn": "Arrival",
+    "nodeSequence": 3
+  },
+  {
+    "shipId": 123060885,
+    "direction": "마곡",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 0,
+    "seats": "혼잡",
+    "nextStop": "한강버스.망원선착장",
+    "previousStop": "한강버스.여의도선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 190,
+    "sectionMoveRatio": 0.973,
+    "stopYn": "Departure",
+    "nodeSequence": 5
+  }
+]
+ 
+16:43:41 :  [
+  {
+    "shipId": 123060884,
+    "direction": "잠실",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 24,
+    "seats": "여유",
+    "nextStop": "한강버스.압구정선착장",
+    "previousStop": "한강버스.여의도선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 0,
+    "sectionMoveRatio": 0,
+    "stopYn": "Arrival",
+    "nodeSequence": 3
+  },
+  {
+    "shipId": 123060885,
+    "direction": "마곡",
+    "shipType": "Regular",
+    "arrivalTimeInMinutes": 0,
+    "seats": "혼잡",
+    "nextStop": "한강버스.망원선착장",
+    "previousStop": "한강버스.여의도선착장",
+    "Latitude": 0,
+    "Longitude": 0,
+    "NextStopId": 0,
+    "PreviousStopId": 0,
+    "shipStatus": "Moving",
+    "currentStop": null,
+    "CurrentStopId": 0,
+    "peopleCountOnShip": 190,
+    "sectionMoveRatio": 1,
+    "stopYn": "Departure",
+    "nodeSequence": 5
+  }
+]
+ 

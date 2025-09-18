@@ -1,0 +1,16 @@
+{
+	"bitId": 1003,
+	"isStationView": true,
+	"stationId": 3,
+	"arriveSoonTimeMinutes": 3,
+	"isExpressShip": false,
+	"isDummyData": false,
+	"dataRequestTime": 35000,
+	"screenOnTime": 9,
+	"screenOffTime": 17,
+	"isDummyPromotion": false,
+	"shipId": 123060892,
+	"useStationEndpoint": true,
+	"bigPromoStationTime": 120,
+	"bigPromoShipTime": 25
+}

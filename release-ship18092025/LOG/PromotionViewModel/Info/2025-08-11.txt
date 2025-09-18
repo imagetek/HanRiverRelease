@@ -1,0 +1,270 @@
+11:20:17 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+11:20:17 :  MediaElementContent_Loaded
+ OK
+11:20:17 :  video duration: 120
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/WebResources/new_video.mp4
+11:54:55 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:54:55 :  MediaElementContent_Loaded
+ OK
+11:54:55 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+11:55:17 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:55:17 :  MediaElementContent_Loaded
+ OK
+11:55:18 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+11:55:40 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:55:40 :  MediaElementContent_Loaded
+ OK
+11:55:40 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+11:56:03 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:56:03 :  MediaElementContent_Loaded
+ OK
+11:56:03 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+11:56:25 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:56:25 :  MediaElementContent_Loaded
+ OK
+11:56:25 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+11:56:48 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:56:48 :  MediaElementContent_Loaded
+ OK
+11:56:48 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+11:57:10 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:57:10 :  MediaElementContent_Loaded
+ OK
+11:57:10 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+11:57:33 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:57:33 :  MediaElementContent_Loaded
+ OK
+11:57:33 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+11:57:55 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:57:55 :  MediaElementContent_Loaded
+ OK
+11:57:55 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+11:58:18 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:58:18 :  MediaElementContent_Loaded
+ OK
+11:58:18 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+11:58:40 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:58:40 :  MediaElementContent_Loaded
+ OK
+11:58:40 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+11:59:03 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:59:03 :  MediaElementContent_Loaded
+ OK
+11:59:03 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+11:59:25 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\15.mp4
+11:59:25 :  MediaElementContent_Loaded
+ OK
+11:59:25 :  video duration: 20
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/15.mp4
+12:00:18 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:00:18 :  MediaElementContent_Loaded
+ OK
+12:00:18 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:01:53 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:01:53 :  MediaElementContent_Loaded
+ OK
+12:01:53 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:03:27 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:03:27 :  MediaElementContent_Loaded
+ OK
+12:03:27 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:05:01 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:05:01 :  MediaElementContent_Loaded
+ OK
+12:05:01 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:06:35 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:06:35 :  MediaElementContent_Loaded
+ OK
+12:06:35 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:08:10 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:08:10 :  MediaElementContent_Loaded
+ OK
+12:08:10 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:09:44 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:09:44 :  MediaElementContent_Loaded
+ OK
+12:09:44 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:11:18 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:11:18 :  MediaElementContent_Loaded
+ OK
+12:11:18 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:12:52 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:12:52 :  MediaElementContent_Loaded
+ OK
+12:12:53 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:14:27 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:14:27 :  MediaElementContent_Loaded
+ OK
+12:14:27 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:16:01 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:16:01 :  MediaElementContent_Loaded
+ OK
+12:16:01 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:17:35 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:17:35 :  MediaElementContent_Loaded
+ OK
+12:17:35 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:19:09 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:19:09 :  MediaElementContent_Loaded
+ OK
+12:19:10 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:20:44 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:20:44 :  MediaElementContent_Loaded
+ OK
+12:20:44 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:22:18 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:22:18 :  MediaElementContent_Loaded
+ OK
+12:22:18 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:23:52 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:23:52 :  MediaElementContent_Loaded
+ OK
+12:23:52 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:25:26 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:25:26 :  MediaElementContent_Loaded
+ OK
+12:25:27 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:27:01 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:27:01 :  MediaElementContent_Loaded
+ OK
+12:27:01 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:28:35 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:28:35 :  MediaElementContent_Loaded
+ OK
+12:28:35 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:30:09 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:30:09 :  MediaElementContent_Loaded
+ OK
+12:30:09 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:31:43 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:31:43 :  MediaElementContent_Loaded
+ OK
+12:31:44 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:33:18 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:33:18 :  MediaElementContent_Loaded
+ OK
+12:33:18 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:34:52 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:34:52 :  MediaElementContent_Loaded
+ OK
+12:34:52 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:36:26 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:36:26 :  MediaElementContent_Loaded
+ OK
+12:36:26 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:38:00 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:38:00 :  MediaElementContent_Loaded
+ OK
+12:38:01 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:39:35 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:39:35 :  MediaElementContent_Loaded
+ OK
+12:39:35 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:41:09 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:41:09 :  MediaElementContent_Loaded
+ OK
+12:41:09 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+12:42:43 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+12:42:43 :  MediaElementContent_Loaded
+ OK
+12:42:43 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+13:01:16 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+13:01:16 :  MediaElementContent_Loaded
+ OK
+13:01:17 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+13:02:51 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+13:02:51 :  MediaElementContent_Loaded
+ OK
+13:02:51 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
+13:14:54 :  video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\32.mp4
+13:14:54 :  MediaElementContent_Loaded
+ OK
+13:14:55 :  video duration: 92
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/Promotion/32.mp4
