@@ -1,0 +1,5 @@
+12:52 PM: '<' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at HanRiverSIS.Services.HttpService.ExecuteGetRequestFor[T](String endpoint)

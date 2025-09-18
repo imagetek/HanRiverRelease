@@ -1,0 +1,129 @@
+express to jamisl
+
+shipDrawings.Add(new() { ShipLeftPixel = 75, ShipTopPixel = 160, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [24, 99], StopId = 1 }); //magok
+shipDrawings.Add(new() { ShipLeftPixel = 80, ShipTopPixel = 210, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [23], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 85, ShipTopPixel = 215, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [22], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 90, ShipTopPixel = 220, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [21], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 95, ShipTopPixel = 225, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [20], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 100, ShipTopPixel = 230, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [19], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 110, ShipTopPixel = 240, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [18], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 120, ShipTopPixel = 250, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [17], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 130, ShipTopPixel = 260, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [16], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 140, ShipTopPixel = 270, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [15], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 150, ShipTopPixel = 270, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [14], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 190, ShipTopPixel = 300, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [13], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 200, ShipTopPixel = 310, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [12], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 210, ShipTopPixel = 320, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [11], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 220, ShipTopPixel = 330, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [10], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 230, ShipTopPixel = 340, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [9], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 240, ShipTopPixel = 350, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [8], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 250, ShipTopPixel = 360, ShipFlip = 1, ShipRotate = 40, RemainingMinutesInterval = [7], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 260, ShipTopPixel = 360, ShipFlip = 1, ShipRotate = 20, RemainingMinutesInterval = [6], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 270, ShipTopPixel = 360, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [5], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 280, ShipTopPixel = 360, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [4], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 290, ShipTopPixel = 360, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [3], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 300, ShipTopPixel = 360, ShipFlip = 1, ShipRotate = -20, RemainingMinutesInterval = [2], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 320, ShipTopPixel = 340, ShipFlip = 1, ShipRotate = -20, RemainingMinutesInterval = [1], StopId = 1 });
+shipDrawings.Add(new() { ShipLeftPixel = 340, ShipTopPixel = 330, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [0], StopId = 1 });
+//---------------------------------------------------------------------------
+shipDrawings.Add(new() { ShipLeftPixel = 340, ShipTopPixel = 330, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [30, 99], StopId = 3 }); //Yeouido
+shipDrawings.Add(new() { ShipLeftPixel = 380, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [29], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 390, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [28], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 400, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [27], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 410, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [26], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 420, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [25], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 430, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [24], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 440, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [23], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 450, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [22], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 460, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [21], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 480, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [20], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 490, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [19], StopId = 3 });			
+shipDrawings.Add(new() { ShipLeftPixel = 560, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [18], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 570, ShipTopPixel = 370, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [17], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 620, ShipTopPixel = 340, ShipFlip = 1, ShipRotate = -40, RemainingMinutesInterval = [16], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 650, ShipTopPixel = 320, ShipFlip = 1, ShipRotate = -40, RemainingMinutesInterval = [15], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 670, ShipTopPixel = 300, ShipFlip = 1, ShipRotate = -20, RemainingMinutesInterval = [14], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 700, ShipTopPixel = 280, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [13], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 710, ShipTopPixel = 280, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [12], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 720, ShipTopPixel = 280, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [11], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 730, ShipTopPixel = 280, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [10], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 740, ShipTopPixel = 280, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [9], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 760, ShipTopPixel = 280, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [8], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 770, ShipTopPixel = 280, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [7], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 780, ShipTopPixel = 280, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [6], StopId = 3 });	
+shipDrawings.Add(new() { ShipLeftPixel = 820, ShipTopPixel = 290, ShipFlip = 1, ShipRotate = 50, RemainingMinutesInterval = [5], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 850, ShipTopPixel = 330, ShipFlip = 1, ShipRotate = 30, RemainingMinutesInterval = [4], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 880, ShipTopPixel = 340, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [3], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 910, ShipTopPixel = 340, ShipFlip = 1, ShipRotate = 45, RemainingMinutesInterval = [2], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 930, ShipTopPixel = 320, ShipFlip = 1, ShipRotate = 30, RemainingMinutesInterval = [1], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 960, ShipTopPixel = 300, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [0], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 960, ShipTopPixel = 300, ShipFlip = 1, ShipRotate = 0, RemainingMinutesInterval = [0,99], StopId = 7 }); //jamsil
+
+=========================================
+
+magok direction
+
+shipDrawings.Add(new() { ShipLeftPixel = 960, ShipTopPixel = 300, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [30, 99], StopId = 7 }); //jamsil
+shipDrawings.Add(new() { ShipLeftPixel = 940, ShipTopPixel = 260, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [29], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 925, ShipTopPixel = 260, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [28], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 890, ShipTopPixel = 260, ShipFlip = -1, ShipRotate = 10, RemainingMinutesInterval = [27], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 880, ShipTopPixel = 250, ShipFlip = -1, ShipRotate = 20, RemainingMinutesInterval = [26], StopId = 7 });
+//---------------------------------------------------------------------------------------------
+shipDrawings.Add(new() { ShipLeftPixel = 810, ShipTopPixel = 190, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [25], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 800, ShipTopPixel = 190, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [24], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 780, ShipTopPixel = 190, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [23], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 770, ShipTopPixel = 190, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [22], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 750, ShipTopPixel = 190, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [21], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 740, ShipTopPixel = 190, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [20], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 730, ShipTopPixel = 190, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [19], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 720, ShipTopPixel = 190, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [18], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 710, ShipTopPixel = 190, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [17], StopId = 7 });
+//===================================================
+shipDrawings.Add(new() { ShipLeftPixel = 600, ShipTopPixel = 250, ShipFlip = -1, ShipRotate = -40, RemainingMinutesInterval = [16], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 590, ShipTopPixel = 260, ShipFlip = -1, ShipRotate = -40, RemainingMinutesInterval = [15], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 580, ShipTopPixel = 270, ShipFlip = -1, ShipRotate = -30, RemainingMinutesInterval = [14], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 570, ShipTopPixel = 280, ShipFlip = -1, ShipRotate = -20, RemainingMinutesInterval = [13], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 560, ShipTopPixel = 280, ShipFlip = -1, ShipRotate = -10, RemainingMinutesInterval = [12], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 550, ShipTopPixel = 280, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [11], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 510, ShipTopPixel = 280, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [10], StopId = 7 });
+//====================================================
+shipDrawings.Add(new() { ShipLeftPixel = 490, ShipTopPixel = 290, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [9], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 470, ShipTopPixel = 290, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [8], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 460, ShipTopPixel = 290, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [7], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 450, ShipTopPixel = 290, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [6], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 440, ShipTopPixel = 290, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [5], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 430, ShipTopPixel = 290, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [4], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 410, ShipTopPixel = 290, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [3], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 400, ShipTopPixel = 290, ShipFlip = -1, ShipRotate = -30, RemainingMinutesInterval = [2], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 370, ShipTopPixel = 310, ShipFlip = -1, ShipRotate = -20, RemainingMinutesInterval = [1], StopId = 7 });
+shipDrawings.Add(new() { ShipLeftPixel = 340, ShipTopPixel = 330, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [0], StopId = 7 });
+//==================================================
+shipDrawings.Add(new() { ShipLeftPixel = 340, ShipTopPixel = 330, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [24, 99], StopId = 3 }); //Yeouido
+shipDrawings.Add(new() { ShipLeftPixel = 320, ShipTopPixel = 295, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [23], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 300, ShipTopPixel = 290, ShipFlip = -1, ShipRotate = 20, RemainingMinutesInterval = [22], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 290, ShipTopPixel = 290, ShipFlip = -1, ShipRotate = 30, RemainingMinutesInterval = [21], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 280, ShipTopPixel = 280, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [20], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 270, ShipTopPixel = 275, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [19], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 260, ShipTopPixel = 270, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [18], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 250, ShipTopPixel = 260, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [17], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 245, ShipTopPixel = 245, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [16], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 240, ShipTopPixel = 230, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [15], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 230, ShipTopPixel = 220, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [14], StopId = 3 });
+//=======================================================
+shipDrawings.Add(new() { ShipLeftPixel = 190, ShipTopPixel = 200, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [13], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 180, ShipTopPixel = 195, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [12], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 170, ShipTopPixel = 190, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [11], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 160, ShipTopPixel = 180, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [10], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 155, ShipTopPixel = 175, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [9], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 150, ShipTopPixel = 170, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [8], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 145, ShipTopPixel = 170, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [7], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 140, ShipTopPixel = 165, ShipFlip = -1, ShipRotate = 40, RemainingMinutesInterval = [6], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 135, ShipTopPixel = 165, ShipFlip = -1, ShipRotate = 30, RemainingMinutesInterval = [5], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 130, ShipTopPixel = 160, ShipFlip = -1, ShipRotate = 30, RemainingMinutesInterval = [4], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 120, ShipTopPixel = 160, ShipFlip = -1, ShipRotate = 20, RemainingMinutesInterval = [3], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 110, ShipTopPixel = 160, ShipFlip = -1, ShipRotate = 20, RemainingMinutesInterval = [2], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 100, ShipTopPixel = 160, ShipFlip = -1, ShipRotate = 10, RemainingMinutesInterval = [1], StopId = 3 });
+shipDrawings.Add(new() { ShipLeftPixel = 80, ShipTopPixel = 160, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [0], StopId = 3 });
+//====================================================
+
+shipDrawings.Add(new() { ShipLeftPixel = 80, ShipTopPixel = 160, ShipFlip = -1, ShipRotate = 0, RemainingMinutesInterval = [1,99], StopId = 1 }); //magok

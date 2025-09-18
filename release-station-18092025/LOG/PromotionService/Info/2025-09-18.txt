@@ -1,0 +1,114 @@
+09:11:15 :  Files count for bitId: 1003, count: 5
+ 
+09:11:15 :  Missing file: 41.wmv, url: http://211.34.229.149:6380/api/promofiles/41.wmv
+ 
+09:11:15 :  Display date expired file: 41.wmv, url: http://211.34.229.149:6380/api/promofiles/41.wmv
+ 
+09:11:15 :  Missing file: 42.wmv, url: http://211.34.229.149:6380/api/promofiles/42.wmv
+ 
+09:11:15 :  Display date expired file: 42.wmv, url: http://211.34.229.149:6380/api/promofiles/42.wmv
+ 
+09:11:15 :  Missing file: 33.mp4, url: http://211.34.229.149:6380/api/promofiles/33.mp4
+ 
+09:11:15 :  Missing file: 34.mp4, url: http://211.34.229.149:6380/api/promofiles/34.mp4
+ 
+09:11:15 :  Missing file: 46.mp4, url: http://211.34.229.149:6380/api/promofiles/46.mp4
+ 
+09:11:15 :  Starting to download file: 41.wmv, url: http://211.34.229.149:6380/api/promofiles/41.wmv
+ 
+09:11:15 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\41.wmv
+ 
+09:11:30 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\41.wmv COMPLETE!
+ 
+09:11:30 :  Starting to download file: 42.wmv, url: http://211.34.229.149:6380/api/promofiles/42.wmv
+ 
+09:11:30 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\42.wmv
+ 
+09:11:40 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\42.wmv COMPLETE!
+ 
+09:11:40 :  Starting to download file: 33.mp4, url: http://211.34.229.149:6380/api/promofiles/33.mp4
+ 
+09:11:40 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\33.mp4
+ 
+09:12:07 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\33.mp4 COMPLETE!
+ 
+09:12:07 :  Starting to download file: 34.mp4, url: http://211.34.229.149:6380/api/promofiles/34.mp4
+ 
+09:12:07 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\34.mp4
+ 
+09:12:33 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\34.mp4 COMPLETE!
+ 
+09:12:33 :  Starting to download file: 46.mp4, url: http://211.34.229.149:6380/api/promofiles/46.mp4
+ 
+09:12:33 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\46.mp4
+ 
+09:12:34 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\46.mp4 COMPLETE!
+ 
+09:18:18 :  Files count for bitId: 1003, count: 5
+ 
+09:18:18 :  Missing file: 41.wmv, url: http://211.34.229.149:6380/api/promofiles/41.wmv
+ 
+09:18:18 :  Display date expired file: 41.wmv, url: http://211.34.229.149:6380/api/promofiles/41.wmv
+ 
+09:18:18 :  Missing file: 42.wmv, url: http://211.34.229.149:6380/api/promofiles/42.wmv
+ 
+09:18:18 :  Display date expired file: 42.wmv, url: http://211.34.229.149:6380/api/promofiles/42.wmv
+ 
+09:18:18 :  Starting to download file: 41.wmv, url: http://211.34.229.149:6380/api/promofiles/41.wmv
+ 
+09:18:18 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\41.wmv
+ 
+09:18:34 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\41.wmv COMPLETE!
+ 
+09:18:34 :  Starting to download file: 42.wmv, url: http://211.34.229.149:6380/api/promofiles/42.wmv
+ 
+09:18:34 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\42.wmv
+ 
+09:18:43 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\42.wmv COMPLETE!
+ 
+10:37:41 :  Files count for bitId: 1003, count: 5
+ 
+10:37:41 :  Missing file: 41.wmv, url: http://211.34.229.149:6380/api/promofiles/41.wmv
+ 
+10:37:41 :  Display date expired file: 41.wmv, url: http://211.34.229.149:6380/api/promofiles/41.wmv
+ 
+10:37:41 :  Missing file: 42.wmv, url: http://211.34.229.149:6380/api/promofiles/42.wmv
+ 
+10:37:41 :  Display date expired file: 42.wmv, url: http://211.34.229.149:6380/api/promofiles/42.wmv
+ 
+10:37:41 :  Missing file: 33.mp4, url: http://211.34.229.149:6380/api/promofiles/33.mp4
+ 
+10:37:41 :  Missing file: 34.mp4, url: http://211.34.229.149:6380/api/promofiles/34.mp4
+ 
+10:37:41 :  Missing file: 46.mp4, url: http://211.34.229.149:6380/api/promofiles/46.mp4
+ 
+10:37:41 :  Starting to download file: 41.wmv, url: http://211.34.229.149:6380/api/promofiles/41.wmv
+ 
+10:37:41 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\41.wmv
+ 
+10:37:59 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\41.wmv COMPLETE!
+ 
+10:37:59 :  Starting to download file: 42.wmv, url: http://211.34.229.149:6380/api/promofiles/42.wmv
+ 
+10:37:59 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\42.wmv
+ 
+10:38:09 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\42.wmv COMPLETE!
+ 
+10:38:09 :  Starting to download file: 33.mp4, url: http://211.34.229.149:6380/api/promofiles/33.mp4
+ 
+10:38:09 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\33.mp4
+ 
+10:38:41 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\33.mp4 COMPLETE!
+ 
+10:38:41 :  Starting to download file: 34.mp4, url: http://211.34.229.149:6380/api/promofiles/34.mp4
+ 
+10:38:41 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\34.mp4
+ 
+10:39:13 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\34.mp4 COMPLETE!
+ 
+10:39:13 :  Starting to download file: 46.mp4, url: http://211.34.229.149:6380/api/promofiles/46.mp4
+ 
+10:39:13 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\46.mp4
+ 
+10:39:14 :  Download file path: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\Promotion\46.mp4 COMPLETE!
+ 

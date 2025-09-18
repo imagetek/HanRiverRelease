@@ -1,0 +1,30 @@
+2:49 PM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+2:49 PM: MediaElementContent_Loaded
+ OK
+2:49 PM: video duration: 120
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/WebResources/new_video.mp4
+6:00 PM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+6:00 PM: MediaElementContent_Loaded
+ OK
+6:00 PM: video duration: 120
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/WebResources/new_video.mp4
+6:20 PM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+6:20 PM: MediaElementContent_Loaded
+ OK
+6:20 PM: video duration: 120
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/WebResources/new_video.mp4
+6:28 PM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+6:28 PM: MediaElementContent_Loaded
+ OK
+6:28 PM: video duration: 120
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/WebResources/new_video.mp4
+6:30 PM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+6:30 PM: MediaElementContent_Loaded
+ OK
+6:30 PM: video duration: 120
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/WebResources/new_video.mp4

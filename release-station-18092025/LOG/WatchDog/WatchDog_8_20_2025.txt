@@ -1,0 +1,1 @@
+8/20/2025 3:44:57 PM: Trying to delete files in dir: C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\LOG

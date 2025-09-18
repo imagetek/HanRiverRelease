@@ -1,0 +1,36 @@
+9:28 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+9:28 AM: MediaElementContent_Loaded
+ OK
+9:28 AM: video duration: 120
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/WebResources/new_video.mp4
+9:31 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+9:31 AM: MediaElementContent_Loaded
+ OK
+9:31 AM: video duration: 120
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/WebResources/new_video.mp4
+9:33 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+9:33 AM: MediaElementContent_Loaded
+ OK
+9:33 AM: video duration: 120
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/WebResources/new_video.mp4
+9:35 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+9:35 AM: MediaElementContent_Loaded
+ OK
+9:35 AM: video duration: 120
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/WebResources/new_video.mp4
+9:37 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+9:37 AM: MediaElementContent_Loaded
+ OK
+9:37 AM: video duration: 120
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/WebResources/new_video.mp4
+9:40 AM: video file name
+ C:\Users\bha-SSNS\Desktop\EDGAR SOURCE\HanRiverSISrestructured\bin\Release\x86\net9.0-windows\WebResources/new_video.mp4
+9:40 AM: MediaElementContent_Loaded
+ OK
+9:40 AM: video duration: 120
+ C:/Users/bha-SSNS/Desktop/EDGAR%20SOURCE/HanRiverSISrestructured/bin/Release/x86/net9.0-windows/WebResources/new_video.mp4
